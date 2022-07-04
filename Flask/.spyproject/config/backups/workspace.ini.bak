@@ -6,5 +6,5 @@ save_non_project_files = False
 
 [main]
 version = 0.2.0
-recent_files = []
+recent_files = ['Chapter-2.py', '..\\..\\Dashboards\\Covid-19-Dashboard-in-Python-by-Plotly-Dash-main\\index.py']
 
